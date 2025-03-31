@@ -133,6 +133,7 @@ ul {
 
   .project-name {
     font-size: clamp(1.5rem, 5vw, 6rem);
+    text-transform: capitalize;
   }
 
   .project-type {
