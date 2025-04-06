@@ -10,6 +10,15 @@ const projects = {
       color: "#e6dac7",
     },
     {
+      name: "Rift Reflections",
+      type: "Game companion",
+      description:
+        "A note-taking application designed to help players improve at the game League of Legends by organizing match-specific reflections.",
+      url: "https://rift-reflections-client.vercel.app/",
+      image: "/assets/rift-reflections.png",
+      color: "hsl(210, 40%, 86%)",
+    },
+    {
       name: "Audiophile",
       type: "E-commerce",
       description:
@@ -43,7 +52,7 @@ const projects = {
     },
     {
       name: "colorful spinner",
-      type: "Page Reveal",
+      type: "Loading Animation",
       url: "https://colorful-spinner.vercel.app/",
       image: "/assets/spinner.png",
       color: "#000",
